@@ -13,7 +13,6 @@ There are few ways to earn crypto on NEAR:
 * stake NEAR tokens to increase security of the system 
 
 There will be a lot more ways to earn soon:
-_TODO: Rewrite focusing on action: "Win Player-2-Player tournaments on OutPlay", etc. _ 
 * Play immersive games like [HashRush](https://hashrush.com)  
 * Win peer-to-peer tournaments on [OutPlay](https://outplay.games) 
 * Predict outcomes of eSport events on [Stake.gg](https://stake.gg) and [ARterra](https://arterra.co) 
