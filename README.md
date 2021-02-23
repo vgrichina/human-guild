@@ -17,7 +17,7 @@ There will be a lot more ways to earn soon:
 * Win peer-to-peer tournaments on [OutPlay](https://outplay.games) 
 * Predict outcomes of eSport events on [Stake.gg](https://stake.gg) and [ARterra](https://arterra.co) 
 * Build direct relationship with your fanbase and monetize your art on platforms like [Mintbase](https://mintbase.io), [Snark Art](https://snark.art) and NEARFolio
-* Avoid delayed payment and get paid via streamning money protocol for salary or rewards on [Xeggo](https://xeggo.co)
+* Get paid in real-time via streaming money protocol for salary or rewards on [Xeggo](https://xeggo.co)
 * Produce educational courses on [Trailit](https://trailit.co)
 * Create sport content and bet during sport events on [Boxscore](https://boxscore.live)
 * Unlock full potential of your community by creating your own social economy via [MintGate](https://mintgate.app)
