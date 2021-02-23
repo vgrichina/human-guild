@@ -19,10 +19,10 @@ _TODO: Rewrite focusing on action: "Win Player-2-Player tournaments on OutPlay",
 * Predict outcomes of eSport events on [Stake.gg](https://stake.gg) and [ARterra](https://arterra.co) 
 * Build direct relationship with your fanbase and monetize your art on platforms like [Mintbase](https://mintbase.io), [Snark Art](https://snark.art) and NEARFolio
 * Avoid delayed payment and get paid via streamning money protocol for salary or rewards on [Xeggo](https://xeggo.co)
-* Create educational courses on [Trailit](https://trailit.co)
-* Create content and bet on sport events on [Boxscore](https://boxscore.live)
-* If you’re ready to build your own community and mint your own token, you can get paid via Mintgate
-* If you’re a musician or a music fan, you can get paid by owning royalties directly via Vezt
+* Produce educational courses on [Trailit](https://trailit.co)
+* Create sport content and bet during sport events on [Boxscore](https://boxscore.live)
+* Unlock full potential of your community by creating your own social economy via [MintGate](https://mintgate.app)
+* Monetize your music directly, or invest in future revenue streams of up and coming musicians on [Vezt](https://vezt.co)
 
 We’re only just getting started and this list will grow. _TODO: Do we need the huge list at once or focus and larger list on different page?_
 
