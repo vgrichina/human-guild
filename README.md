@@ -14,7 +14,7 @@ There are few ways to earn crypto on NEAR:
 
 There will be a lot more ways to earn soon:
 _TODO: Rewrite focusing on action: "Win Player-2-Player tournaments on OutPlay", etc. _ 
-* If you’re a strategy gamer, you can get paid by playing Hash Rush
+* Play to earn in immersive strategy games like [HashRush](https://hashrush.com)
 * Win peer-to-peer tournaments on [OutPlay](https://outplay.games) 
 * If you’re an eSports enthusiast, you can get paid via apps like Arterra and Stake.gg
 * If you’re an artist, you can get paid by selling your work on Mintbase, Snark.art and NEARFolio
