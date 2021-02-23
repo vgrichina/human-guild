@@ -20,7 +20,7 @@ _TODO: Rewrite focusing on action: "Win Player-2-Player tournaments on OutPlay",
 * Build direct relationship with your fanbase and monetize your art on platforms like [Mintbase](https://mintbase.io), [Snark Art](https://snark.art) and NEARFolio
 * Avoid delayed payment and get paid via streamning money protocol for salary or rewards on [Xeggo](https://xeggo.co)
 * Create educational courses on [Trailit](https://trailit.co)
-* If you’re a sports fan, you can get paid by predicting sport events correctly via Boxscore
+* Create content and bet on sport events on [Boxscore](https://boxscore.live)
 * If you’re ready to build your own community and mint your own token, you can get paid via Mintgate
 * If you’re a musician or a music fan, you can get paid by owning royalties directly via Vezt
 
