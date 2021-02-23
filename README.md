@@ -17,8 +17,8 @@ _TODO: Rewrite focusing on action: "Win Player-2-Player tournaments on OutPlay",
 * Play immersive games like [HashRush](https://hashrush.com)  
 * Win peer-to-peer tournaments on [OutPlay](https://outplay.games) 
 * Predict outcomes of eSport events on [Stake.gg](https://stake.gg) and [ARterra](https://arterra.co) 
-* Build direct relationship with your fanbase and monetize your art on platforms like [Mintbase](https://mintbase.io), [Snark Art](https://snark.art) and [NEARFolio]
-* If you’re a freelancer, you can get paid via streaming money protocol Xeggo
+* Build direct relationship with your fanbase and monetize your art on platforms like [Mintbase](https://mintbase.io), [Snark Art](https://snark.art) and NEARFolio
+* Avoid delay payment and get paid via streamning money protocol for salary or rewards on [Xeggo](https://xeggo.co)
 * If you’re a course creator, you can get paid on Trailit
 * If you’re a sports fan, you can get paid by predicting sport events correctly via Boxscore
 * If you’re ready to build your own community and mint your own token, you can get paid via Mintgate
