@@ -16,8 +16,8 @@ There will be a lot more ways to earn soon:
 _TODO: Rewrite focusing on action: "Win Player-2-Player tournaments on OutPlay", etc. _ 
 * Play immersive games like [HashRush](https://hashrush.com)  
 * Win peer-to-peer tournaments on [OutPlay](https://outplay.games) 
-* Predict outcomes of eSport events on [Stake.gg](https://stake.gg) and ARtera (https://arterra.co) 
-* If you’re an artist, you can get paid by selling your work on Mintbase, Snark.art and NEARFolio
+* Predict outcomes of eSport events on [Stake.gg](https://stake.gg) and [ARterra](https://arterra.co) 
+* Build direct relationship with your fanbase and monetize your art on platforms like [Mintbase](https://mintbase.io), [Snark Art](https://snark.art) and [NEARFolio]
 * If you’re a freelancer, you can get paid via streaming money protocol Xeggo
 * If you’re a course creator, you can get paid on Trailit
 * If you’re a sports fan, you can get paid by predicting sport events correctly via Boxscore
