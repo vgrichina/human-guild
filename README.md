@@ -31,5 +31,5 @@ We’d love you to be involved, and here are several ways for you to do so:
 * If you’re a creator, we will show you all possible ways for you to create new income streams 
 * If you’re crypto curious and don’t know where to start, let us walk you through onboarding of some web3 apps to get started
 
-Don’t wait - join [Boxscore](https://discord.gg/z5nw6Cd6) now! 
+Don’t wait - join [Discord](https://discord.gg/z5nw6Cd6) now! 
 
