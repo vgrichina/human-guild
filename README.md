@@ -26,9 +26,10 @@ There will be a lot more ways to earn soon:
 We’re only just getting started and this list will grow. _TODO: Do we need the huge list at once or focus and larger list on different page?_
 
 We’d love you to be involved, and here are several ways for you to do so: 
+* If you want to join us on a journey to increase amount of humans earning crypto, we can welcome you into our movement
 * If you’re a founder, get support from us on how to best get adoption for your web3 app
 * If you’re a creator, we will show you all possible ways for you to create new income streams 
-* If you’re crypto curious and don’t know where to start, let us walk you through onboarding to some apps to get started
+* If you’re crypto curious and don’t know where to start, let us walk you through onboarding of some web3 apps to get started
 
 Don’t wait - join Discord now! 
 
