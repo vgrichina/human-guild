@@ -9,7 +9,7 @@ The Human Guild’s purpose is to lower the barrier to entry for people looking 
 There are few ways to earn crypto on NEAR:
 * sell art on [Paras](https://paras.id)
 * farm tokens by drawing pixel art on [BerryClub.io](https://berryclub.io)
-* predict outcomes of upcoming events on Flux 
+* predict outcomes of upcoming events on [Flux](https://fluxprotocol.eth.link) 
 * stake NEAR tokens to increase security of the system 
 
 There will be a lot more ways to earn soon:
