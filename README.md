@@ -21,7 +21,8 @@ There will be a lot more ways to earn soon:
 * Produce educational courses on [Trailit](https://trailit.co)
 * Create sport content and bet during sport events on [Boxscore](https://boxscore.live)
 * Unlock full potential of your community by creating your own social economy via [MintGate](https://mintgate.app)
-* Monetize your music directly, or invest in future revenue streams of up and coming musicians on [Vezt](https://vezt.co)
+* Monetize your music directly via [DAORecords](https://daorecords.org), or invest in future revenue streams of up and coming musicians on [Vezt](https://vezt.co)
+* Use your GPUs to transcode videos on [Zod](https://zod.tv)
 
 We’re only just getting started and this list will grow. _TODO: Do we need the huge list at once or focus and larger list on different page?_
 
