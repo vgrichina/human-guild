@@ -24,7 +24,7 @@ There will be a lot more ways to earn soon:
 * Monetize your music directly via [DAORecords](https://daorecords.org), or invest in future revenue streams of up and coming musicians on [Vezt](https://vezt.co)
 * Use your GPUs to transcode videos on [Zod](https://zod.tv)
 
-We’re only just getting started and this list will grow. _TODO: Do we need the huge list at once or focus and larger list on different page?_
+We’re only just getting started and this list will grow. 
 
 We’d love you to be involved, and here are several ways for you to do so: 
 * If you want to join us on a journey to increase amount of humans earning crypto, we can welcome you into our movement
